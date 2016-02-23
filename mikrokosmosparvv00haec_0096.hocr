@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikrokosmosparvv00haec_0096.png"; bbox 0 0 2190 2948; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 101 295 2005 1910">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 101 295 2005 1910">
+     <span class='ocr_line' id='line_1_1' title="bbox 101 295 2005 1910; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 101 295 2005 1910; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 399 2052 1807 2207">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 399 2052 1807 2207">
+     <span class='ocr_line' id='line_1_2' title="bbox 399 2052 1807 2127; baseline 0 -23"><span class='ocrx_word' id='word_1_2' title='bbox 399 2059 547 2107; x_wconf 78' lang='lat' dir='ltr'><em>Homo</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 560 2053 691 2126; x_wconf 58' lang='lat' dir='ltr'><em>quast</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 704 2053 789 2127; x_wconf 82' lang='lat' dir='ltr'><em>flos</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 803 2053 1034 2126; x_wconf 70' lang='lat' dir='ltr'><em>egreditur</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1059 2056 1119 2119; x_wconf 58' lang='grc' dir='ltr'><em>ὠ*</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1134 2062 1385 2108; x_wconf 68' lang='lat' dir='ltr'><em>conteritur</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1403 2094 1418 2116; x_wconf 87' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_9' title='bbox 1433 2052 1491 2116; x_wconf 55' lang='grc' dir='ltr'><em>(ῥ’</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1514 2056 1645 2126; x_wconf 78' lang='lat' dir='ltr'><em>fugit</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1673 2054 1807 2106; x_wconf 80' lang='lat' dir='ltr'><em>velut</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 434 2128 1803 2207; baseline 0.002 -26"><span class='ocrx_word' id='word_1_12' title='bbox 434 2130 607 2183; x_wconf 64' lang='lat' dir='ltr'><em>vmbra</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 624 2128 681 2191; x_wconf 55' lang='grc' dir='ltr'><strong><em>ὠ</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 692 2150 933 2205; x_wconf 76' lang='lat' dir='ltr'><em>nunquam</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 952 2136 1003 2185; x_wconf 74' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1017 2132 1169 2189; x_wconf 82' lang='lat' dir='ltr'><em>eodem</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1179 2132 1300 2207; x_wconf 66' lang='lat' dir='ltr'><em>[latu</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1312 2129 1664 2207; x_wconf 63' lang='lat' dir='ltr'><em>permanetdob.</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1678 2150 1803 2193; x_wconf 52' lang='lat'><em>¹4·50</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

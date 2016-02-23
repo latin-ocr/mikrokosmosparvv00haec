@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikrokosmosparvv00haec_0134.png"; bbox 0 0 2190 2948; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 922 301 2104 382">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 922 301 2104 382">
+     <span class='ocr_line' id='line_1_1' title="bbox 922 301 2104 382; baseline -0.019 -17"><span class='ocrx_word' id='word_1_1' title='bbox 922 322 1076 364; x_wconf 69' lang='lat' dir='ltr'><em>Mona</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1102 315 1417 362; x_wconf 69' lang='lat' dir='ltr'>ronrlrvno</span> <span class='ocrx_word' id='word_1_3' title='bbox 1449 304 1645 359; x_wconf 65' lang='lat' dir='ltr'><em>mmm}</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1768 376 1773 382; x_wconf 32' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2055 301 2104 344; x_wconf 70' lang='grc' dir='ltr'><em>ὄν</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 256 462 2114 1846">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 256 462 2114 1846">
+     <span class='ocr_line' id='line_1_2' title="bbox 256 462 2114 1846; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 256 462 2114 1846; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 561 2005 2086 2158">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 561 2005 2086 2158">
+     <span class='ocr_line' id='line_1_3' title="bbox 561 2005 2086 2084; baseline 0.005 -24"><span class='ocrx_word' id='word_1_7' title='bbox 561 2012 673 2064; x_wconf 72' lang='lat' dir='ltr'><em>Non</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 680 2009 909 2083; x_wconf 69' lang='lat' dir='ltr'><em>glorietur</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 919 2008 1059 2078; x_wconf 72' lang='lat' dir='ltr'><em>fortis</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1072 2011 1123 2063; x_wconf 85' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1131 2005 1518 2080; x_wconf 71' lang='lat' dir='ltr'><em>fhrtitudinefiaa‚</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1547 2009 1606 2075; x_wconf 56' lang='grc' dir='ltr'><em>όν</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1620 2028 1712 2066; x_wconf 79' lang='lat' dir='ltr'><em>non</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1718 2009 1944 2084; x_wconf 72' lang='lat' dir='ltr'><em>glorietur</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1955 2008 2086 2068; x_wconf 76' lang='lat' dir='ltr'><em>diues</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 939 2085 1498 2158; baseline -0.007 -19"><span class='ocrx_word' id='word_1_16' title='bbox 939 2085 1198 2158; x_wconf 65' lang='lat' dir='ltr'><em>m&#39;diuitq&#39;s.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1251 2089 1435 2140; x_wconf 78' lang='lat' dir='ltr'><em>Ieremi.</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1444 2104 1498 2152; x_wconf 64' lang='grc' dir='ltr'><em>ρ.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

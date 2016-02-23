@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mikrokosmosparvv00haec_0076.png"; bbox 0 0 2190 2948; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1122 313 1530 357">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1122 313 1530 357">
+     <span class='ocr_line' id='line_1_1' title="bbox 1122 313 1530 357; baseline 0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1122 314 1307 356; x_wconf 66' lang='lat' dir='ltr'><strong><em>AETAS·</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1323 313 1530 357; x_wconf 75' lang='lat' dir='ltr'><em>FERREA.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 174 474 2032 1917">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 174 474 2032 1917">
+     <span class='ocr_line' id='line_1_2' title="bbox 174 474 2032 1917; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 174 474 2032 1917; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 708 1997 1960 2157">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 708 1997 1960 2157">
+     <span class='ocr_line' id='line_1_3' title="bbox 708 1997 1960 2076; baseline 0.014 -31"><span class='ocrx_word' id='word_1_4' title='bbox 708 1997 1003 2068; x_wconf 74' lang='lat' dir='ltr'><em>Qicunque</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1010 2014 1114 2071; x_wconf 74' lang='lat' dir='ltr'><em>ergo</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1126 1997 1349 2063; x_wconf 76' lang='lat' dir='ltr'><em>voluerit,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1365 2003 1539 2056; x_wconf 77' lang='lat' dir='ltr'><em>amicus</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1551 2003 1781 2076; x_wconf 63' lang='lat' dir='ltr'><em>effifi’culi</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1795 2002 1960 2064; x_wconf 66' lang='lat' dir='ltr'><em>hmines</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 845 2075 1842 2157; baseline 0.011 -32"><span class='ocrx_word' id='word_1_10' title='bbox 845 2075 1066 2127; x_wconf 54' lang='lat' dir='ltr'><em>inimum</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1083 2082 1178 2130; x_wconf 72' lang='lat' dir='ltr'><em>Det</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1192 2078 1497 2157; x_wconf 60' lang='lat' dir='ltr'><em>constetmtur.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1523 2083 1658 2138; x_wconf 62' lang='lat' dir='ltr'><em>laceb</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1717 2104 1766 2146; x_wconf 80' lang='lat'><em>4·</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1793 2085 1842 2136; x_wconf 76' lang='lat' dir='ltr'><em>b.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2100 326 2145 371">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2100 326 2145 371">
+     <span class='ocr_line' id='line_1_5' title="bbox 2100 326 2145 371; baseline 0 -11"><span class='ocrx_word' id='word_1_16' title='bbox 2100 326 2145 371; x_wconf 68' lang='grc'><em>31</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
